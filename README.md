@@ -29,7 +29,7 @@ OPENAI_API_KEY = "your_openai_api_key"
 ## Usage
 
 
--1 Run the Streamlit app:
+1. Run the Streamlit app:
 ```bash
 streamlit run app.py
 ```
@@ -38,7 +38,7 @@ streamlit run app.py
 4. Click the "Start" button to initiate the search.
 
 ## Example
-![Question and Answer](https://github.com/Soroushsrd/Langchain_app/blob/main/Screenshot%202024-04-10%20100556.png)
+![Name Search](https://github.com/Soroushsrd/Academic-name-search/blob/main/Screenshot%202024-05-10%20165615.png)
 
 ## Contributing
 
